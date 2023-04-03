@@ -1,0 +1,14 @@
+[ {
+  "name": "Pizza",
+  "address": "mecca",
+  "cuisine": "Italy ",
+  "website": "https://pizza.com",
+  "description": "Vegetable pizza "
+},
+{
+  "name": "Burger ",
+  "address": "mecca",
+  "cuisine": "American ",
+  "website": "https://burgers.com",
+  "description": "Cheese Burger "
+}]
