@@ -1,14 +1,1 @@
-[ {
-  "name": "Pizza",
-  "address": "mecca",
-  "cuisine": "Italy ",
-  "website": "https://pizza.com",
-  "description": "Vegetable pizza "
-},
-{
-  "name": "Burger ",
-  "address": "mecca",
-  "cuisine": "American ",
-  "website": "https://burgers.com",
-  "description": "Cheese Burger "
-}]
+[{"id":"r1","name":"Pizza","address":"mecca","cuisine":"Italy ","website":"https://pizza.com","description":"Vegetable pizza "},{"id":"r2","name":"Burger ","address":"mecca","cuisine":"American ","website":"https://burgers.com","description":"Cheese Burger "},{"id":"r3","name":"shawerma","address":"Eygbt","cuisine":"Syria","website":"https://Shawerma.com","description":"shawerma beef with tahinah"},{"name":"Fish&Chips ","address":"Channel Street 5","cuisine":"French ","website":"https://pizza.com","description":"Woow","id":"b3717d18-3367-44b3-aafe-b95ea0d30513"}]
